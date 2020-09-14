@@ -1,0 +1,18 @@
+.page{width:100%;min-height:100vh;background-color:#FFFFFF;overflow:hidden;}
+.main{width:100%;margin-top:1rem;}
+.main .address-nav{width: 100%;height:0.8rem;background-color:#D3C6BE;font-size:0.32rem;display: flex;display:-webkit-flex;justify-content: space-between;-webkit-justify-content: space-between;align-items: center;-webkit-align-items: center;}
+.main .address-nav .address-nav-name-1{margin-left:0.2rem;}
+.main .address-nav .address-nav-name-2{margin-right:0.2rem;}
+.main .address-list{width:100%;height:2.22rem;border-bottom:1px solid #C6C6C6;}
+.main .address-list .address-info-wrap{width:90%;height:1.42rem;border-bottom:#C6C6C6 1px dashed;margin:0 auto;display:flex;display:-webkit-flex;align-items: center;-webkit-align-items: center;}
+.main .address-list .address-info-wrap .check-mark{width:0.4rem;height:0.4rem;background-image:url("../../../../assets/images/home/cart/gou.png");background-size:100%;background-repeat: no-repeat;background-position: center;margin-right:0.3rem;}
+.main .address-list .address-info-wrap .address-info.default{width:90%;}
+.main .address-list .address-info-wrap .address-info{width:100%;height:auto}
+.main .address-list .person{width:100%;height:0.5rem;border-bottom:#EFEFEF 1px solid;font-size:0.28rem;overflow:hidden;}
+.main .address-list .person span:nth-child(1){margin-right:0.2rem;}
+.main .address-list .address{width:100%;height:0.6rem;overflow:hidden;line-height:0.6rem;margin-top:0.1rem;white-space: nowrap;text-overflow: ellipsis;}
+.main .address-list .address .text{font-size:0.32rem;}
+.main .address-list .address .default{padding:0.05rem 0.1rem;background-color:#FDB709;color:#FFFFFF;font-size:0.24rem; border-radius: 4px;margin-right:0.2rem;}
+.main .address-list .handle-wrap{width:100%;height:0.76rem;display:flex;display:-webkit-flex;justify-content: flex-end;-webkit-justify-content: flex-end;align-items: center;align-items: center;}
+.main .address-list .handle-wrap .edit{width:0.4rem;height:0.4rem;background-image:url("../../../../assets/images/home/cart/edit.png");background-size:100%;background-repeat: no-repeat;background-position: center;margin-right:0.3rem;}
+.main .address-list .handle-wrap .del{width:0.4rem;height:0.4rem;background-image:url("../../../../assets/images/home/cart/del.png");background-size:100%;background-repeat: no-repeat;background-position: center;margin-right:0.3rem;}

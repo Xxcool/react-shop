@@ -1,0 +1,6 @@
+.page{width:100%;min-height:100vh;background-color:#FFFFFF;overflow:hidden;}
+.main{width:100%;margin-top:1.3rem;}
+.main .list{width:100%;font-size:0.32rem;text-align: center;margin-bottom:0.2rem;}
+.main .list.success{color:#E51B19}
+.main .list.ordernum{color:#F17F1F}
+.main .pay-btn{width:3.2rem;height:0.6rem;font-size:0.28rem;color:#FFFFFF;text-align:center;margin:0 auto;background-color:#0a8ddf;line-height:0.6rem;border-radius: 4px;}
